@@ -189,10 +189,10 @@ nav a.active {
   animation: fillAnim 1.5s ease forwards;
 }
 
-.html { width: 90%; }
-.css { width: 85%; }
-.js { width: 75%; }
-.figma { width: 88%; }
+.html { width: 85%; }
+.css { width: 70%; }
+.js { width: 40%; }
+.figma { width: 80%; }
 
 @keyframes fillAnim {
   from { width: 0; }
